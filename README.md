@@ -40,4 +40,4 @@ python sms_spam_detection.py
 ```
 
 ## Author
-Siddhi
+Gaurav Singh
